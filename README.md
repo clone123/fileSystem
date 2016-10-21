@@ -7,7 +7,7 @@
 
 ####2：FormDate，slice， Html5新出来的API，对文件的一些处理，切片，传输。
 
-####3：vue-resource , 基于Vue的一个Http请求库，可直接注册到Vue原型上，也可自用ajax发送请求数据，传输数据格式需自查API文档。
+####3：vue-resource , 基于Vue的一个Http请求库，可直接注册到Vue原型上，也可自用ajax发送请求数据，具体用法看API文档。
 
 ####4：multiparty,formidable 对文件处理的npm包，后续对文件分片接受处理,API文档需细细研究，尤其分片接受那块。
 
